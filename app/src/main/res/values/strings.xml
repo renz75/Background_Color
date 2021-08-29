@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Background Color</string>
+    <string name="backgroundColorTextView">Choose Color</string>
+    <string name="redColorButton">red</string>
+    <string name="greenColorButton">green</string>
+    <string name="blueColorButton">blue</string>
+    <string name="onClickButton">RedColor</string>
+</resources>
